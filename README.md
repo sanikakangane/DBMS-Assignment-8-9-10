@@ -1,10 +1,10 @@
 # DBMS-Assignment-8-9-10
 
-A beginner-friendly DBMS assignment based on **Subqueries, Correlated Subqueries & Window Functions**. This assignment focuses on practicing advanced SQL queries using the `orderdb` database, including nested subqueries, correlated subqueries, running totals, partitioning, row numbering, and ranking functions.
+A beginner-friendly DBMS assignment based on **Subqueries, Correlated Subqueries & Window Functions**. This assignment focuses on practicing advanced SQL queries using the `order_db` database, including nested subqueries, correlated subqueries, running totals, partitioning, row numbering, and ranking functions.
 
 ## Assignment Overview
 
-The assignment involves working with the `orderdb` database and performing advanced SQL queries on customers, products, and orders.
+The assignment involves working with the `order_db` database and performing advanced SQL queries on customers, products, and orders.
 
 The work is divided into three main parts:
 
@@ -16,7 +16,7 @@ The assignment contains a total of **15 SQL queries**, with 5 questions in each 
 
 ## Database
 
-### orderdb
+### order_db
 
 The database contains the following main tables:
 
@@ -141,7 +141,7 @@ A single SQL file contains all **15 queries**, clearly organized according to As
 
 ### SQL File
 
-`order_db.sql`
+`order2_db.sql`
 
 ## Tools Used
 
